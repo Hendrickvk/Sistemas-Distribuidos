@@ -1,0 +1,16 @@
+{"operation":"LOGIN_CANDIDATE","data":{"email":"a","password":"s"}}
+{"operation":"SIGNUP_CANDIDATE","data":{"email":"a@a.com","password":"1","name":"amanda"}}
+{"operation":"LOGIN_CANDIDATE","data":{"email":"a@a.com","password":"1"}}
+{"operation":"DELETE_ACCOUNT_CANDIDATE","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6IkNBTkRJREFURSJ9.xqrzPy8RES4_S3XZyUbG0W3gNhYznUN0iOIcDgUB2P0","data":{}}
+{"operation":"SIGNUP_RECRUITER","data":{"email":"a@a.com","password":"senha1","name":"Ana","industry":"Games","description":"Games e Diversao"}}
+{"operation":"LOGIN_RECRUITER","data":{"email":"a@a.com","password":"senha1"}}
+{"operation":"LOOKUP_ACCOUNT_RECRUITER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6IlJFQ1JVSVRFUiJ9.WVYMNmOO-PWB2v39leGV4Yq7QNgLmuJFNFD4cDqPEU4","data":{}}
+{"operation":"DELETE_ACCOUNT_RECRUITER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6IlJFQ1JVSVRFUiJ9.WVYMNmOO-PWB2v39leGV4Yq7QNgLmuJFNFD4cDqPEU4","data":{}}
+{"operation":"LOOKUP_ACCOUNT_RECRUITER","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6IlJFQ1JVSVRFUiJ9.WVYMNmOO-PWB2v39leGV4Yq7QNgLmuJFNFD4cDqPEU4","data":{}}
+{"operation":"SIGNUP_CANDIDATE","data":{"email":"a@a.com","password":"senha1","name":"ana"}}
+{"operation":"LOGIN_CANDIDATE","data":{"email":"a@a.com","password":"senha1"}}
+{"operation":"DELETE_ACCOUNT_CANDIDATE","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6IkNBTkRJREFURSJ9.xqrzPy8RES4_S3XZyUbG0W3gNhYznUN0iOIcDgUB2P0","data":{}}
+{"operation":"LOOKUP_ACCOUNT_CANDIDATE","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6IkNBTkRJREFURSJ9.xqrzPy8RES4_S3XZyUbG0W3gNhYznUN0iOIcDgUB2P0","data":{}}
+{"operation":"SIGNUP_CANDIDATE","data":{"email":"a@a.com","password":"senha1","name":"ana"}}
+{"operation":"LOGIN_CANDIDATE","data":{"email":"a@a.com","password":"senha1"}}
+{"operation":"DELETE_ACCOUNT_CANDIDATE","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwicm9sZSI6IkNBTkRJREFURSJ9.xqrzPy8RES4_S3XZyUbG0W3gNhYznUN0iOIcDgUB2P0","data":{}}
