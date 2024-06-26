@@ -1,0 +1,7 @@
+Para utilizar o programa, importe na base de dados MY SQL as tabelas e o arquivo sqlrule, presentes na pasta sql, enquanto que no java connectionBD, modifique na linha 10 a 12,
+
+"private static final String url = "jdbc:mysql://localhost:3306/sistemas_distribuidos";"
+"private static final String user = "root";"
+"private static final String password = "Senha123!";"
+
+com seus respectivos dados da base de dado (nome do banco,usuário e senha). Nao se esqueca de mudar o build path dos .jar presentes na pasta "imports".
